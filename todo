@@ -1,0 +1,3 @@
+20141025-2244
+    - Vim autocomplete for CSS (:set omnifunc=csscomplete#CompleteCSS), doesn't seem to have any CSS3 rules.
+
